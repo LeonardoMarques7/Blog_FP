@@ -519,7 +519,7 @@ strong a:hover {
 	padding-top: 1rem;
 }
 
-@media screen and (min-width: 64em) {
+@media screen and (min-width:  850px) {
 	#sidebar {   
 		max-width: 19.5em;
 	}
@@ -1138,7 +1138,7 @@ li .remove:hover {
     }
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 700px) {
     .card {
         border: none;
         max-width: 100%;
@@ -1154,13 +1154,13 @@ li .remove:hover {
     }
 }
 
-@media screen and (max-width: 31.25em) {
+@media screen and (max-width: 700px) {
 	.container{
 		margin: 8.75rem auto; 
 	}
 }
 
-@media (max-width: 63.98em) {
+@media (max-width: 700px) {
 	
 	#posts-container{
 		order: 1;
@@ -1323,7 +1323,7 @@ li .remove:hover {
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 650px) {
     .row-footer {
         justify-content: space-between;
         flex-wrap: wrap;
