@@ -1,0 +1,587 @@
+{
+    "description": "DO NOT DELETE THIS FILE. This file is used to keep track of which files have been synced in the most recent deployment. If you delete this file a resync will need to be done (which can take a while) - read more: https://github.com/SamKirkland/FTP-Deploy-Action",
+    "version": "1.0.0",
+    "generatedTime": 1704667596259,
+    "data": [
+        {
+            "type": "file",
+            "name": "alterarPost.php",
+            "size": 6672,
+            "hash": "64003d0c670901bd1a30bcef762dec99d779a931d1943a3737a7609c078909a9"
+        },
+        {
+            "type": "file",
+            "name": "blog.sql",
+            "size": 9621,
+            "hash": "51c5dc5b1e23a28597d26757c3924095fd325b75c086e103ff41ac45cbc521a1"
+        },
+        {
+            "type": "file",
+            "name": "carregando.php",
+            "size": 202,
+            "hash": "9a7c9cfa2f21f6014d8949a4ee755b8c15324cf6efe6185362f7950cd02246c9"
+        },
+        {
+            "type": "file",
+            "name": "conexao.php",
+            "size": 237,
+            "hash": "b41f7b8a9333c202e8e36fbe2915de22df43e34af7b2bc163343329946478e22"
+        },
+        {
+            "type": "file",
+            "name": "criaPost.php",
+            "size": 12850,
+            "hash": "017154e5f8f7894409a4b973d7c607b3001d2955adefaeb9d1aabd384d6c8300"
+        },
+        {
+            "type": "file",
+            "name": "criadores.html",
+            "size": 8428,
+            "hash": "b42bf177fceab172fe42219a70f543b1c9824cdc8c2d68ac249607bdb0b8d850"
+        },
+        {
+            "type": "file",
+            "name": "criadores.php",
+            "size": 8506,
+            "hash": "5dc675d6758c6378e227ca8b9ca7a7631e61dd5fc4fd1a325f5266b2647ce166"
+        },
+        {
+            "type": "file",
+            "name": "criarPost.php",
+            "size": 6155,
+            "hash": "9a88480ff965aeb9fff528d464afde392f560aa2edb884af5f5983a0dc4c4085"
+        },
+        {
+            "type": "folder",
+            "name": "css"
+        },
+        {
+            "type": "file",
+            "name": "cursos.php",
+            "size": 13005,
+            "hash": "c06047dc483997f617878a6faad6306b785284bec71bf63bdffa07229c3b8aa5"
+        },
+        {
+            "type": "file",
+            "name": "dashboard.php",
+            "size": 6354,
+            "hash": "3f26d6b33f81ff7fd635a20f911f3081d718b0ec9863e7fbcff3c0c597f2f189"
+        },
+        {
+            "type": "file",
+            "name": "deletePost.php",
+            "size": 6326,
+            "hash": "c717642b26f2678f3dc1b68ce69b97cdbc767a20dc577152248e1b7af010ce6c"
+        },
+        {
+            "type": "file",
+            "name": "files for your website should be uploaded here!",
+            "size": 0,
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "type": "file",
+            "name": "footer.php",
+            "size": 1858,
+            "hash": "971772e3bc681dcb2d5f751ccfa0778d902c8d82955f23cff639c6644b915764"
+        },
+        {
+            "type": "folder",
+            "name": "img"
+        },
+        {
+            "type": "file",
+            "name": "index.php",
+            "size": 5817,
+            "hash": "6d8b6c58375b914688271ee4b5daa16b8edbf39886af3629b3b5630c300af885"
+        },
+        {
+            "type": "file",
+            "name": "index2.html",
+            "size": 20137,
+            "hash": "35b8c1138099f7d213bae5461234326a53e8644db62fa439c01c29970fe6eecc"
+        },
+        {
+            "type": "folder",
+            "name": "js"
+        },
+        {
+            "type": "file",
+            "name": "logando.php",
+            "size": 5743,
+            "hash": "3dc86f1316f835845d0ad293095c48bd06a58db4e2c8d9402fdd545dcb689499"
+        },
+        {
+            "type": "file",
+            "name": "login.php",
+            "size": 3943,
+            "hash": "35ccb7d8c9c6c5992761df5f863ef4d68fe81178a3238e1f05970b389ba1a490"
+        },
+        {
+            "type": "file",
+            "name": "pesquisador.php",
+            "size": 1253,
+            "hash": "be43c16f2aecbff61a964da76a4d08c08f5f7e6c802982d10b837999f39e1692"
+        },
+        {
+            "type": "folder",
+            "name": "posts"
+        },
+        {
+            "type": "file",
+            "name": "readme.md",
+            "size": 640,
+            "hash": "d72795eab7898da5fc65c6544baa58f87ad4bb89eb18f52d52aadadb39a4ddac"
+        },
+        {
+            "type": "file",
+            "name": "sendComent.php",
+            "size": 5169,
+            "hash": "7ec77c4b9886a43a6f904b8c0361727fe01bb8f4643860eda222c1e18f3c9ae4"
+        },
+        {
+            "type": "file",
+            "name": "style.css",
+            "size": 12065,
+            "hash": "c57b9bb6b5ca6ee41bfeabad79751ac594dacc26b030834b3c78378d7359a822"
+        },
+        {
+            "type": "file",
+            "name": "viewDeletePost.php",
+            "size": 9188,
+            "hash": "21b8ac0d20ff1e52d7856334d68c1daa70fd222490149b31bf6e7dd6703f3662"
+        },
+        {
+            "type": "file",
+            "name": "viewPost.php",
+            "size": 11356,
+            "hash": "9ec11353a6ebae5239ed033c733a7dc635189692d6a22006e0bc6b5a42ed5e2e"
+        },
+        {
+            "type": "file",
+            "name": "viewUpdatePost.php",
+            "size": 13677,
+            "hash": "825953d471a13b398e263d07419a03a6e2c0a36115345118f5835f9059c2b2ae"
+        },
+        {
+            "type": "folder",
+            "name": "webfonts"
+        },
+        {
+            "type": "folder",
+            "name": "css/awesome"
+        },
+        {
+            "type": "file",
+            "name": "css/style-escuro.css",
+            "size": 23601,
+            "hash": "1384a1a242b29801fc19646d9928cf7be08612cbb2d0f7a49431ee43c2743aa3"
+        },
+        {
+            "type": "file",
+            "name": "css/style-post.css",
+            "size": 4560,
+            "hash": "a32d81998b2a66d5375375589e05b500ce15353d83e04eeb2ed0a1fcfef9302a"
+        },
+        {
+            "type": "file",
+            "name": "css/style.css",
+            "size": 17345,
+            "hash": "d4c5531f95d34d1fcc1994c05ba90c821cfcbd41d6b3e8c7b6958bf04ff47402"
+        },
+        {
+            "type": "file",
+            "name": "img/img-user.png",
+            "size": 28375,
+            "hash": "713c550238a71abf63e712f87ffdd06d475348ccb27005ee2c141b1a9fc48e53"
+        },
+        {
+            "type": "file",
+            "name": "img/288-logo-etec-fernando-prestes.svg",
+            "size": 9248,
+            "hash": "6bd76634b4223ef2a19aac4851c1689b1b8723798a5fd211c4214ce336da8e25"
+        },
+        {
+            "type": "file",
+            "name": "img/leo.png",
+            "size": 342796,
+            "hash": "12e1bcb8243cd9f9f21456bac1b8b4a46c4201704bdec05348baba3828d10774"
+        },
+        {
+            "type": "file",
+            "name": "img/manu.png",
+            "size": 346742,
+            "hash": "41979c59e80b2c1e47be5dd648b988a45d2bcb8feb1e3f0565c8d486fea9586d"
+        },
+        {
+            "type": "file",
+            "name": "img/modo-claro.png",
+            "size": 17645,
+            "hash": "d55d7f316bca98c89403aadac8cfbbb88b148c95ae88fe52b32c40d974083eda"
+        },
+        {
+            "type": "file",
+            "name": "img/modo-escuro.png",
+            "size": 26310,
+            "hash": "1709982389d16a7b886cf6f58aa10a60cac7d343e7d131c83e2e55526ba1b6da"
+        },
+        {
+            "type": "file",
+            "name": "img/redes.png",
+            "size": 64389,
+            "hash": "7245922c10cea1946dbe1eb98902597b4990a414333cc317fdec589e49991b94"
+        },
+        {
+            "type": "file",
+            "name": "img/websai.png",
+            "size": 130405,
+            "hash": "3cda1e8f79855cbba4f32a2d2655fa6522c61d2bbb25ec65d3a61c891a8c6ef7"
+        },
+        {
+            "type": "folder",
+            "name": "js/awsome"
+        },
+        {
+            "type": "file",
+            "name": "js/script.js",
+            "size": 2612,
+            "hash": "b4654966d216c4544e60c0332eed2ab55951fe915c18855e74b235739c4560df"
+        },
+        {
+            "type": "file",
+            "name": "posts/Eu.jpg",
+            "size": 229485,
+            "hash": "50a4957e8d002ac60c75e43e009e40be7e72cd37a674963c84e01d48b001a387"
+        },
+        {
+            "type": "file",
+            "name": "posts/16972814601719025865324559830179.jpg",
+            "size": 2138091,
+            "hash": "a4557be2bbc95f36c6e5c03aee14be7a336a0d0ebf54fed838c1d3919f54bb59"
+        },
+        {
+            "type": "file",
+            "name": "posts/IMG-20231013-WA0069.jpg",
+            "size": 31929,
+            "hash": "d202488e6beffcb75b7732f1f253e388468cbcc5df0eb27777d85fb1de012a91"
+        },
+        {
+            "type": "file",
+            "name": "posts/Ge.jpg",
+            "size": 76515,
+            "hash": "afe4783aaa57f9a3af72ab36031011fa8e212be089f30cb20bbd68a1cb18ff60"
+        },
+        {
+            "type": "file",
+            "name": "posts/MicrosoftTeams-image (1).png",
+            "size": 89004,
+            "hash": "a6de80bb70649c5fa48f3439f1ce917a818e6fc6f7a1aaa38bc239af7f5cbfe0"
+        },
+        {
+            "type": "file",
+            "name": "posts/MicrosoftTeams-image.png",
+            "size": 72418,
+            "hash": "1a2487606ed8f50a2892c6bb363e9b113ee5a8cb9ed9161dca599fdc4b6f2d41"
+        },
+        {
+            "type": "file",
+            "name": "posts/Semfoto.png",
+            "size": 10096,
+            "hash": "b4d7ce97242d87d7379649dd9296fdf3b1f69e6702c8137ef4fb76e9aadf7b15"
+        },
+        {
+            "type": "file",
+            "name": "posts/f1.png",
+            "size": 261271,
+            "hash": "8e33baede96dade3923ac9506100708eb3fe3ea121de1dbd1a026c8e8dd915ac"
+        },
+        {
+            "type": "file",
+            "name": "posts/f2.jpg",
+            "size": 3401365,
+            "hash": "0a0242f690ee4dfb07941a05d954ca738e82cc5126f6576a5b3cc41e7141d1ff"
+        },
+        {
+            "type": "file",
+            "name": "posts/f2.png",
+            "size": 495814,
+            "hash": "88da136ae5efb9e740c31e36bf47fdc05fdde132fef02c379a695e5c26b570f5"
+        },
+        {
+            "type": "file",
+            "name": "posts/f3.png",
+            "size": 812103,
+            "hash": "148869e04a04ba601fde344f163fc114648ff11d904393a076a12c2307825346"
+        },
+        {
+            "type": "file",
+            "name": "posts/f4.png",
+            "size": 815825,
+            "hash": "62d59fc9e18acb3df348da5ec160f82e5e260ab0904b9d94b7fe6997d129265c"
+        },
+        {
+            "type": "file",
+            "name": "posts/f6.png",
+            "size": 89004,
+            "hash": "a6de80bb70649c5fa48f3439f1ce917a818e6fc6f7a1aaa38bc239af7f5cbfe0"
+        },
+        {
+            "type": "file",
+            "name": "posts/f5.png",
+            "size": 449625,
+            "hash": "9baa208c94e71958298131c75a3460745624d0fe74bc66e835d7464d8b9da84d"
+        },
+        {
+            "type": "file",
+            "name": "posts/f7.png",
+            "size": 311775,
+            "hash": "f12c65719bea94cf9ce543da6b100af3177de215fe3b856fd34f66153ace4a05"
+        },
+        {
+            "type": "file",
+            "name": "posts/img2.jpg",
+            "size": 70547,
+            "hash": "4d121900646e01d9908722dd4a7c460864853732338ca7d3921d3aca9db40ceb"
+        },
+        {
+            "type": "file",
+            "name": "webfonts/fa-brands-400.ttf",
+            "size": 187208,
+            "hash": "20c4a58bc9d1d69e935d06f1528923646a715be5e218665655cade8f5f1b8c00"
+        },
+        {
+            "type": "file",
+            "name": "webfonts/fa-brands-400.woff2",
+            "size": 108020,
+            "hash": "748332090c4b8e20f95d0ff59f0be20fa9c889359d3b36d4b886d73376054207"
+        },
+        {
+            "type": "file",
+            "name": "webfonts/fa-regular-400.ttf",
+            "size": 63952,
+            "hash": "528d022dce6725f8a0811fd91d8e6513445c81ef33353a5c3234eab932551abf"
+        },
+        {
+            "type": "file",
+            "name": "webfonts/fa-regular-400.woff2",
+            "size": 24948,
+            "hash": "8e7e5ea1b15f62ab14dbd41768e8fbcd21cc859a4ea5da812457ee714299fb35"
+        },
+        {
+            "type": "file",
+            "name": "webfonts/fa-solid-900.ttf",
+            "size": 394628,
+            "hash": "67a65763c7f80903d81603bbeb9049fc2bf28508479b83ed011fe24c71fa950a"
+        },
+        {
+            "type": "file",
+            "name": "webfonts/fa-solid-900.woff2",
+            "size": 150124,
+            "hash": "7152a6933ee3d690ec2af3d09da9d701723d16aa3410a6d80f28ff8866f3b880"
+        },
+        {
+            "type": "file",
+            "name": "webfonts/fa-v4compatibility.ttf",
+            "size": 10172,
+            "hash": "0515a423f828ce4e6accf92a2ea0b03d19d31cc86d9af0373291e1fd4db5f348"
+        },
+        {
+            "type": "file",
+            "name": "webfonts/fa-v4compatibility.woff2",
+            "size": 4564,
+            "hash": "694a17c3d9d6c05f8aac63c544615552a4b220e9a4de863d87341a6bcfc1bc8d"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/all.css",
+            "size": 140055,
+            "hash": "0822e64055e9b5e5fca4c230a1140b23dff7986fdc111a366251e73b97a1c5b6"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/all.min.css",
+            "size": 102025,
+            "hash": "1edb1725a9ea8ca4dcf2f5508cee183218aa1685e47c1b23056717f754f58ebf"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/brands.css",
+            "size": 23769,
+            "hash": "3c67adf6ea0c6f04d589bc4c187276640b83f40386d79c8907674f50cb055afc"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/brands.min.css",
+            "size": 18663,
+            "hash": "737db2923fed71e8ccc24d31e4e669cf5d6ef1e29c154fda3d4e90c2c2ca912c"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/fontawesome.css",
+            "size": 113421,
+            "hash": "259cc861f57c339d96a9306d2fce85b24f1c1b06416c8aab06ff98377f30693a"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/fontawesome.min.css",
+            "size": 80823,
+            "hash": "3dc869c82a722d9fd7c7d881a453ee3d269d461917c7a27901ad357d9dcbbfc4"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/regular.css",
+            "size": 633,
+            "hash": "0e2cf44ea0eebaddcd430662752026256b894b4d770939981c7bd5ad92431326"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/regular.min.css",
+            "size": 580,
+            "hash": "ddc66555af4438aaa1c0c4776e6b5fd4c53b6a17ab680d5f114d7a2f64460dd0"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/solid.css",
+            "size": 625,
+            "hash": "1813655df25e8a40a3bcec57452199557f2f7bf69e500904f26c1f3f27771a9f"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/solid.min.css",
+            "size": 572,
+            "hash": "b43dcc895ec8fa778047b69062f1920729246b946fba0c34cddd15e558a801e3"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/svg-with-js.css",
+            "size": 21637,
+            "hash": "2e3d9d082dc8064ff54f326f63f8f8def79a10ddd4a7da2572326c907ca9768f"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/svg-with-js.min.css",
+            "size": 16956,
+            "hash": "35ffaaa0d69eeaa6dc921df7be26348e3bc5de5e92736b569e1cf131d058425f"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/v4-font-face.css",
+            "size": 1831,
+            "hash": "fa8c73b090c1626e536339d588da3a0f9daceb0cdddde6b3a6a9dcb4fdbd770f"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/v4-font-face.min.css",
+            "size": 1736,
+            "hash": "a6d13cdd2b519e62f823102a36fdf8860e075232be7eeb28c61b48fc726e0f09"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/v4-shims.css",
+            "size": 41574,
+            "hash": "081daff56618533f7b5e85d9e21b5b3f109edf701ece5179318f2e7ddd5ec90f"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/v4-shims.min.css",
+            "size": 27593,
+            "hash": "d3037f42050da6c98f31f801c26a5fe3df7327240ce40314b805e5e25b052ea2"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/v5-font-face.css",
+            "size": 871,
+            "hash": "5cba503b6493547e6bcc0036981497943cad29ad50b192f32b6665bdef77ac66"
+        },
+        {
+            "type": "file",
+            "name": "css/awesome/v5-font-face.min.css",
+            "size": 794,
+            "hash": "73464c266649b97fad16b39955cb667fe1e4fe36264ceb20bdce7e1216750252"
+        },
+        {
+            "type": "file",
+            "name": "js/awsome/all.js",
+            "size": 1566173,
+            "hash": "8a3ed5d626a6da6407fcf7a168a4e2d27e1654373befe6cb69d907f60457b711"
+        },
+        {
+            "type": "file",
+            "name": "js/awsome/all.min.js",
+            "size": 1468161,
+            "hash": "26fc9c78bb9ae90716d5682a72d6695d805eb77ec3361aa9a454383446a2e5ff"
+        },
+        {
+            "type": "file",
+            "name": "js/awsome/brands.js",
+            "size": 479881,
+            "hash": "0310767be7b2c878ddbe1b4c9e0c8b984b2321c2027ec9e9262c1e0a81f7562d"
+        },
+        {
+            "type": "file",
+            "name": "js/awsome/brands.min.js",
+            "size": 469550,
+            "hash": "b40c270e5829eb3c57b0cf73b4fd29e71060872c594c30d250cd2307ca81cef1"
+        },
+        {
+            "type": "file",
+            "name": "js/awsome/conflict-detection.js",
+            "size": 39544,
+            "hash": "04760cdf76dcd413936f344c6a3ff89f84db8a935676626db1c22280867969f8"
+        },
+        {
+            "type": "file",
+            "name": "js/awsome/conflict-detection.min.js",
+            "size": 16381,
+            "hash": "865f26521c6e7d91989981c8b6f731874214cd72392d5281c694cb3468ad2884"
+        },
+        {
+            "type": "file",
+            "name": "js/awsome/fontawesome.js",
+            "size": 117462,
+            "hash": "d5280416b019678c20816822d709eae33881527bbaadb5410eb840193d7415c2"
+        },
+        {
+            "type": "file",
+            "name": "js/awsome/fontawesome.min.js",
+            "size": 56832,
+            "hash": "d86bc6aa6d6ef596b6f45d5e80f2155920049b24a7ff388f0c33e62a6ef6a8a7"
+        },
+        {
+            "type": "file",
+            "name": "js/awsome/regular.js",
+            "size": 123050,
+            "hash": "f471f033bf47cf7061c7750de75fe3fcbac051ebf95c713c11eb6842d0513004"
+        },
+        {
+            "type": "file",
+            "name": "js/awsome/regular.min.js",
+            "size": 116196,
+            "hash": "04b9d64890b130d716856f0eb27250f83a8786000e4ce55d3acb5bbca39b832a"
+        },
+        {
+            "type": "file",
+            "name": "js/awsome/solid.js",
+            "size": 846437,
+            "hash": "e3783c68ab293455a58c9704f390e9b7e79e59b8a96511092f1ca216bf9e9383"
+        },
+        {
+            "type": "file",
+            "name": "js/awsome/solid.min.js",
+            "size": 826243,
+            "hash": "b929220256372037efd4e6f270bfe3af498a53bc82d822f290fb43d4109c1c7b"
+        },
+        {
+            "type": "file",
+            "name": "js/awsome/v4-shims.js",
+            "size": 33815,
+            "hash": "675ede18c3a34aa0878051f134df972a1587654d74c4cf61f46d726618f761a5"
+        },
+        {
+            "type": "file",
+            "name": "js/awsome/v4-shims.min.js",
+            "size": 27539,
+            "hash": "5479be8eed15df7ae4dc5769dfcaa3c4525f892e37b7807a40db5029e4106d6e"
+        }
+    ]
+}
