@@ -1,0 +1,9 @@
+# Pasta de dependências do Composer
+/vendor/
+
+# Credenciais sensíveis
+config/firebase_credentials.json
+
+# Arquivos específicos de ambiente
+login/app.php
+sendgrid.env
